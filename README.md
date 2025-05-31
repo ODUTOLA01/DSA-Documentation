@@ -45,3 +45,8 @@ SELECT A,B,C
 WHERE A> 15
 ~~~
 
+### Analysis
+[Pivot Tables File(AutoRecovered).xlsx](https://github.com/user-attachments/files/20534882/Pivot.Tables.File.AutoRecovered.xlsx)
+
+*italics*
+**Bold**
