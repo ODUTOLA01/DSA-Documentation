@@ -47,8 +47,13 @@ WHERE A> 15
 
 ### Analysis
 
-bia chart.jpg
-piee chart.png
+
+
+
+
+
+
+
 
 *italics*
 **Bold**
