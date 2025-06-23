@@ -46,7 +46,7 @@ WHERE A> 15
 ~~~
 
 ### Analysis
-
+https://github.com/Odutogun/DSA-Documentation/blob/main/bia%20chart.jpg
 
 
 
