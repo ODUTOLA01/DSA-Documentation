@@ -46,8 +46,7 @@ WHERE A> 15
 ~~~
 
 ### Analysis
-
-![PIECHART](https://github.com/user-attachments/assets/5a6163e9-1880-40e6-9bca-7b4111ad2be3)
+https://github.com/ODUTOLA01/DSA-Documentation/blob/main/BARCHART.PNG
 
 
 *italics*
