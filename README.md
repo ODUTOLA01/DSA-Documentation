@@ -47,8 +47,6 @@ WHERE A> 15
 
 ### Analysis
 
-![bia chart](https://github.com/user-attachments/assets/71039ea4-cf9e-4b12-8922-24e6d709be1f)
-![piee chart](https://github.com/user-attachments/assets/4b26bcc0-8ee9-440c-8d22-0ff2deb56f7b)
 
 
 *italics*
