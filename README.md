@@ -46,8 +46,6 @@ WHERE A> 15
 ~~~
 
 ### Analysis
-https://github.com/ODUTOLA01/DSA-Documentation/blob/main/BARCHART.PNG
-
 
 *italics*
 **Bold**
