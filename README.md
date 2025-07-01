@@ -46,11 +46,7 @@ WHERE A> 15
 ~~~
 
 ### Analysis
-
-![Image](https://github.com/user-attachments/assets/ea2fb579-ee63-488e-9071-56bd3b5fa75b)
-
-
-https://github.com/ODUTOLA01/DSA-Documentation/commit/bc44d9775ccf335a3f1d00cdf05ba31218ee874f#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R50
+PIECHART.PNG
 
 
 *italics*
