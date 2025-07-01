@@ -46,7 +46,7 @@ WHERE A> 15
 ~~~
 
 ### Analysis
-![image alt](https://github.com/ODUTOLA01/DSA-Documentation/blob/c2470f7235f4e848aafbbb390df41085e0f6e5e5/BARCHART.PNG)
 
+![Image](https://github.com/user-attachments/assets/ea2fb579-ee63-488e-9071-56bd3b5fa75b)
 *italics*
 **Bold**
