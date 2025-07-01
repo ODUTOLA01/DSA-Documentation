@@ -46,8 +46,10 @@ WHERE A> 15
 ~~~
 
 ### Analysis
+![BARCHART](https://github.com/user-attachments/assets/079a2a76-16d0-4bf7-8e9f-64f599757164)
 
 
+![PIECHART](https://github.com/user-attachments/assets/a34fa7cf-a3ad-4399-8ef6-b3a7d8fab4a9)
 
 *italics*
 **Bold**
