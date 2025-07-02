@@ -48,7 +48,7 @@ WHERE A> 15
 
 ### Analysis
 
-![Image](https://github.com/user-attachments/assets/97cfb3b5-0636-4e66-bb4f-f7d84723783c)
+
 
 *italics*
 **Bold**
